@@ -5,7 +5,8 @@ let avg
 for(let i=0; i<100; i++){
     arr[i]=(Math.floor(Math.random()*(101-1))+1);
     result+=arr[i]
-    avg=result/arr.length
- }
+}
 
-console.log(avg)
+ avg=result/arr.length
+let a= parseInt(avg)
+console.log(a)
