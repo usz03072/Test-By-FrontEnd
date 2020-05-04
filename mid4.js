@@ -7,8 +7,8 @@ function sum(...a) {
 
 function test_sum(f){
     let result= sum
-    for(let j=0; i<6; j++){
-        arr[i]=(Math.floor(Math.random()*(10-1))+1);
+    for(let j=0; j<6; j++){
+        a[i]=(Math.floor(Math.random()*(10-1))+1);
      }
 }
 
